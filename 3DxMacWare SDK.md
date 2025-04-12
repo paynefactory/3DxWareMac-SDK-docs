@@ -77,12 +77,10 @@
 
 9.5 3DxValuesCarbon
 
----
+
 
 
 > **Note from the editor:** This Markdown version omits some images that are present and may be necessary for full understanding. Please refer to the original PDF if any sections appear incomplete.
-
----
 
 
 
