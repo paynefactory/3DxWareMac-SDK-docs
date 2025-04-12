@@ -1,6 +1,8 @@
-3DxWareMac SDK v1.0.4 
-January 2018 
-> *Edited for Markdown by paynefactory's Harper Payne*
+<p align="center">
+  <strong>3DxWareMac SDK v1.0.4<br>Documentation</strong><br>
+  <em>January 2018</em><br>
+  <sub><em>Edited for Markdown by paynefactory's Harper Payne</em></sub>
+</p>
 
 
 # Table of Contents
@@ -75,7 +77,10 @@ January 2018
 
 9.5 3DxValuesCarbon
 
+---
 
+
+> **Note from the editor:** This Markdown version omits some images that are present and may be necessary for full understanding. Please refer to the original PDF if any sections appear incomplete.
 
 ---
 
