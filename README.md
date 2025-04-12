@@ -6,7 +6,7 @@
 
 This repository contains the official PDF documentation for the 3DxWareMac SDK v1.0.4, released by 3Dconnexion. It is intended for developers integrating SpaceMouse support into custom macOS applications.
 
-> **Note:** This repository only includes the documentation PDF. Source code or SDK files are not redistributed here.
+> **Note:** This repository only includes the documentation. Source code or SDK files are not redistributed here.
 
 ## View the Documentation in PDF or Markdown Format
 
