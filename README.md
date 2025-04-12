@@ -12,7 +12,7 @@ This repository contains the official PDF documentation for the 3DxWareMac SDK v
 
 [Click here to view the documentation](./3DxWareMac-SDK-v1.0.4.pdf)
 
-## Official Source
+## Official Sources and Developer Support
 
 Documentation PDF sourced from 3Dconnexion’s official developer portal:
 
@@ -26,7 +26,11 @@ https://forum.3dconnexion.com
 ## Copyright
 
 I am not the copyright owner of this material.  
-All rights belong to **(c) 3Dconnexion US**.
+All rights belong to © 3Dconnexion US.
+
+## Maintainer
+
+This repository was assembled by **paynefactory’s Harper Payne** to preserve and reference official documentation for the 3DxWareMac SDK.
 
 ## Keywords for Search
 
