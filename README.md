@@ -8,7 +8,8 @@ This repository contains the official PDF documentation for the 3DxWareMac SDK v
 
 > **Note:** This repository only includes the documentation PDF. Source code or SDK files are not redistributed here.
 
-## View the PDF or Markdown Documentation
+## View the Documentation in PDF or Markdown Format
+
 
 [Click here to view the PDF documentation](./3DxMacWare%20SDK.pdf)
 
@@ -16,7 +17,7 @@ This repository contains the official PDF documentation for the 3DxWareMac SDK v
 
 ## Official Sources and Developer Support
 
-Documentation PDF sourced from 3Dconnexion’s official developer portal:
+Documentation sourced from 3Dconnexion’s developer portal:
 
 **Developer Resources:**  
 https://3dconnexion.com/us/software-developer-program/service/
